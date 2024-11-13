@@ -1,0 +1,1 @@
+This is My Minor project created by me and my friend Patrick Kharmujai We both usage four different Machine learning model and created a web app to provide an Interface. We used  Utilized data preprocessing, feature engineering, and model evaluation to optimize accuracy.
